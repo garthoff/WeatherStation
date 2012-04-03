@@ -4,3 +4,6 @@
 [submodule "WeatherStationBase"]
 	path = WeatherStationBase
 	url = git@github.com:patrickn/WeatherStationBase.git
+[submodule "flot"]
+	path = flot
+	url = https://github.com/flot/flot.git
