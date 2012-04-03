@@ -1,0 +1,6 @@
+[submodule "WeatherStationWeb"]
+	path = WeatherStationWeb
+	url = git@github.com:patrickn/WeatherStationWeb.git
+[submodule "WeatherStationBase"]
+	path = WeatherStationBase
+	url = git@github.com:patrickn/WeatherStationBase.git
